@@ -1,0 +1,77 @@
+body{
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+header{
+    background-color:#9dccc5;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+h1{
+  display:inline-block;
+  width:500px;
+  font-weight:700;
+}
+#habilidades{
+  width: 30%;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 180px;
+  margin-top: 20px;
+}
+#educacion{
+  display: inline-block;
+  width: 65%;
+  vertical-align: top;
+}
+#social{
+display: inline-block;
+}
+#subtitulo{
+  display:inline-block;
+  width:500px;
+  font-weight:200;
+}
+#logo{
+width: 300;
+display: inline-block;
+margin-top: 40px;
+margin-left: 30px;
+}
+#Experiencia{
+display: inline-block;
+width:50%;
+margin-top:20px;
+}
+.barra{
+background-color:#d4f4a1;color:black;
+text-align:center;padding:10px;
+}
+.section{
+  width:960px;
+  height:200px;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top:20px;"
+}
+.titulo{
+  font-size:36px;
+  font-weight:700;
+}
+.subtema{
+font-size:22px;
+text-transform:uppercase;
+margin-bottom:12px;
+margin-top:36px;
+}
+.lista{
+margin-top:5px;
+}
+.progreso{
+margin-left: 90px;
+}
+.titulo-menu{
+margin-top:12px;
+padding:0px;
+}
